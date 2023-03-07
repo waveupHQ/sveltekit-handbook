@@ -1,2 +1,2 @@
-# sveltekit-handbook
-In this handbook, we’ll explore the ins and outs of SvelteKit and show you how to harness its power to create stunning web applications.
+# The Sveltekit Handbook
+Welcome to the world of SvelteKit! This powerful framework is changing the way developers build web applications. With its lightning-fast performance and ease of use, SvelteKit is quickly becoming a favorite among developers. In this handbook, we’ll explore the ins and outs of SvelteKit and show you how to harness its power to create stunning web applications. Get ready for a wild ride as we dive into the exciting world of SvelteKit!
