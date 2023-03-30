@@ -12,7 +12,7 @@ body:
       label: Meta Data
       description: |
         What is the question is about, write on the YAML format here ?
-      placeholder: |
+      value: |
         ---
         tags: [sveltekit, typeScript]
         author: jeblister
