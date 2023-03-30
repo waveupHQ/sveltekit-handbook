@@ -1,0 +1,26 @@
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in this Handbook! 🚀
+
+        Please follow these instructions, fill every question, and do every step. 🙏
+  - type: textarea
+    id: description
+    attributes:
+      label: Meta Data
+      description: |
+        What is the question is about, write on the YAML format here ?
+      placeholder: |
+        ---
+        tags: [sveltekit, typeScript]
+        author: jeblister
+        title: (1)
+        description: "(2)"
+        slug: (3)
+        category: sveltekit
+        series: false
+        ---
+    validations:
+      required: true
