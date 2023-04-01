@@ -22,5 +22,6 @@ body:
         category: sveltekit
         series: false
         ---
+      render: yaml  
     validations:
       required: true
