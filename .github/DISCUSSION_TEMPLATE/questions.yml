@@ -1,4 +1,4 @@
-labels: [question]
+labels: [question, sveltekit]
 body:
   - type: markdown
     attributes:
@@ -18,10 +18,9 @@ body:
         author: jeblister
         title: (1)
         description: "(2)"
-        slug: (3)
+        slug: (3) is required
         category: sveltekit
         series: false
         ---
-      render: yaml  
     validations:
       required: true
